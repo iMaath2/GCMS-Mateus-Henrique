@@ -1,23 +1,5 @@
-Colaboradores
+## Colaboradores
 
-Ramide Dantas (@ramidedantas, dono)
-Mateus Henrique (@imaath2)
-Gabriel Alves (@GabrielAlves0501)
-Jamilly Braga (@jamilly-b)
-Diogo Moura (@HyogoMoura)
-Albert Alvin (@AlbertAlvin8080)
-Júlia Didra (@juliadidra)
-João Torpe (@JoaoTorpe)
-Gustavo Melo (@Gust4voMelo)
-Raul Melo (@MaedreV)
-João Gouveia (@JoaoVitorGL)
-Rinaldo Bezerra (@RinaldoHub)
-Víctor Gabriel (@victortads)
-Augusto Marques (@augustomarqq)
-Fernando Castelo(@fernando-castelo)
-Aurian Lira (@AurianLira)
-Marta Santos (@Mart0389)
-Rodrigo Lopes (@rodrigolsouza)
-Richardson Silva (@MasterRick)
-Wallisson Rocha (@PilzTol)
-Luis Lima (@LuisLimaJr)
+
+* Mateus Henrique(@imaath2)
+
