@@ -17,6 +17,7 @@ public class HomeController {
 		return "Hello, Mateus!";
 	}
 	
+	
 	/**@Test
 	public void shouldReturnDefaultMessage() throws Exception {
 		this.mockMvc.perform(get("/"))
