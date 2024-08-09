@@ -17,6 +17,11 @@ public class HomeController {
 		return "Hello, Mateus!";
 	}
 	
+	/********
+	 * 
+	 * Modificação original
+	 * 
+	 *******/
 	
 	/**@Test
 	public void shouldReturnDefaultMessage() throws Exception {
