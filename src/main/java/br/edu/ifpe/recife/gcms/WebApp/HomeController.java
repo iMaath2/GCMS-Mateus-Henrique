@@ -30,6 +30,12 @@ public class HomeController {
 		.andExpect(content()
 		.string(containsString("Hello, World")));
 	}
+	
+	/************
+	 * 
+	 * Modificação cópia
+	 * 
+	 ***********/
 
 **/
 }
