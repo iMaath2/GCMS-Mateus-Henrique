@@ -23,4 +23,18 @@ class WebAppApplicationTests {
 				.andExpect(content()
 						.string(containsString("Hello, World")));
 	}
+	@Test
+	public void shouldReturnDefaultMessageTest() throws Exception {
+			this.mockMvc.perform(get("/Hotfix"))
+				.andDo(print()).andExpect(status().isOk())
+				.andExpect(content()
+						.string(containsString("Hotfix")));
+	}
+	@Test
+	public void shouldReturnDefaultMessageMateus() throws Exception {
+			this.mockMvc.perform(get("/Mateus"))
+				.andDo(print()).andExpect(status().isOk())
+				.andExpect(content()
+						.string(containsString("Hello, Mateus!")));
+	}
 }
